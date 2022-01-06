@@ -33,12 +33,10 @@ You can download the latest app by using the below link.
 - 1.0.0
     - Initial release
 
-## Authors
+## Author
 
-- Prihan Nimsara
-- Janani Bodaragama
-- Roshan Maduwantha
-- Shehan Dinuksha Fernando
+- Philemon Olang
+
 
 ## License
 
